@@ -11543,7 +11543,7 @@ h3.profile-name{
 
 img.profile-img{
   float: right;
-  margin-top: 30px;
+  /*margin-top: 30px;*/
   width: 100px;
   height: 100px;
 }
